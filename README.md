@@ -17,6 +17,16 @@ Weather-App is a web application that provides real-time weather information for
 - **CSS**: Styles the application for an appealing user interface.
 - **JavaScript**: Implements the core functionality and interacts with the weather API.
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page](screenshots/screenshot1.png)
+
+### Weather Results
+![Weather Results](screenshots/screenshot2.png)
+
 ## Installation
 
 To run the Weather-App locally:
