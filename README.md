@@ -22,10 +22,10 @@ Weather-App is a web application that provides real-time weather information for
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](screenshots/screenshot1.png)
+![Home Page](screenshots/homepage.png)
 
 ### Weather Results
-![Weather Results](screenshots/screenshot2.png)
+![Weather Results](screenshots/searchresult.png)
 
 ## Installation
 
